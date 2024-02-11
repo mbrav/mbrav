@@ -2,12 +2,13 @@
 
 I am an IT specialist who specializes in the field of DevOps while also being passionate about Python and Rust languages. My interests range from designing and building processes at the infrastructure and architecture level to diving into the most low-level areas. I enjoy solving interesting problems regardless their difficulty while constantly expanding my horizons throughout the process.
 
-- 👨‍💻 Work as a DevOps and Platform Engineer;
+- 👨‍💻 Work as a DevOps and Systems Engineer;
 - 🐍 Fluent in Python;
-- 🦀 Learning Rust;
-- 🐧 Work with Linux;
+- 🦀 Enjoy Rust when in hardmode;
+- 🦦 Fiddle with Go when in easymode;
+- 🐧 Linux entusiast, dabble with C when feeling adventurous;
 - 🧠 T-shape versatilist by heart 🖤
-- 📍 Current location: Moscow, Russia.
+- 📍 Current location: Inside a Kubernetes cluster ☸️ 
 
 ### 📄 [My Resume](/mbrav-resume.pdf)([ru](/mbrav-resume-ru.pdf))
 
