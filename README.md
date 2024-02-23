@@ -39,22 +39,6 @@ I am an IT specialist who specializes in the field of DevOps while also being pa
 
 To learn more about my expierence please go to my [LinkedIn][linkedin]
 
-## 👨‍🎓 Education
-
-[Parsons School of Design](http://www.newschool.edu/parsons/). New York, NY  
-BFA in [Design and Technology](http://www.newschool.edu/parsons/bfa-design-technology/)  
-Class of May 2018
-
-[Eugene Lang](http://www.newschool.edu/lang/). New York, NY  
-BFA in [Philosophy](http://www.newschool.edu/lang/philosophy/)
-Class of May 2019
-
-## For more infomation about me
-
-Visit: [mbrav.github.io](https://mbrav.github.io/)
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mbrav-gh-profile&left_text=mbrav%20GitHub%20Profile%20Visits)
-
 ## 👨🏻 Connect with me
 
 [<img align="left" alt="absurdcomrade | Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" />][telegram]
