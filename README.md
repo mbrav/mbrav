@@ -8,19 +8,26 @@ I am an IT specialist who specializes in the field of DevOps while also being pa
 - 🦦 Fiddle with Go when in easymode;
 - 🐧 Linux entusiast, dabble with C when feeling adventurous;
 - 🧠 T-shape versatilist by heart 🖤
-- 📍 Current location: Inside a Kubernetes cluster ☸️ 
+- 📍 Current location: Inside a Kubernetes cluster ☸️
 
-### 📄 [My Resume](/mbrav-resume.pdf)([ru](/mbrav-resume-ru.pdf))
+### 📄 [my_resume.pdf](/mbrav-resume.pdf)
+
+### Fun fact
+
+I maintain a HomeLab as a second job to ensure I don't become jobless, even during an economic recession.
+
+<img width="80" src="https://i.giphy.com/d3mlE7uhX8KFgEmY.webp" />
 
 ## 📊 Stats
 
 [![wakatime](https://wakatime.com/badge/user/54ad05ce-f39b-4fa3-9f2a-6fe4b1c53ba4.svg?style=for-the-badge)](https://wakatime.com/@54ad05ce-f39b-4fa3-9f2a-6fe4b1c53ba4)
-
+<!--
 [![leetcode](https://badges.peiyuan.ch/leetcode/mbrav/ranking?logo=leetcode&label=%20Leet%20Code%20Rank&style=for-the-badge&color=orange)](https://leetcode.com/mbrav/)
 [![leetcode](https://badges.peiyuan.ch/leetcode/mbrav/solved?difficulty=all&style=for-the-badge&color=green)](https://leetcode.com/mbrav/)
-<!-- [![leetcode](https://badges.peiyuan.ch/leetcode/mbrav/solved?difficulty=easy&style=for-the-badge&color=green)](https://leetcode.com/mbrav/)
+[![leetcode](https://badges.peiyuan.ch/leetcode/mbrav/solved?difficulty=easy&style=for-the-badge&color=green)](https://leetcode.com/mbrav/)
 [![leetcode](https://badges.peiyuan.ch/leetcode/mbrav/solved?difficulty=medium&style=for-the-badge&color=yellow)](https://leetcode.com/mbrav/)
-[![leetcode](https://badges.peiyuan.ch/leetcode/mbrav/solved?difficulty=hard&style=for-the-badge&color=red)](https://leetcode.com/mbrav/) -->
+[![leetcode](https://badges.peiyuan.ch/leetcode/mbrav/solved?difficulty=hard&style=for-the-badge&color=red)](https://leetcode.com/mbrav/)
+-->
 
 <div id="wakatime" style="width: 100%; overflow-x: auto;">
     <img style="display: inline-block; width: 24%; height: 100%;"
@@ -37,7 +44,7 @@ I am an IT specialist who specializes in the field of DevOps while also being pa
 
 ## 🐋 Experience
 
-To learn more about my expierence please go to my [LinkedIn][linkedin]
+To learn more about my experience visit my [LinkedIn][linkedin]
 
 ## 👨🏻 Connect with me
 
@@ -52,4 +59,3 @@ To learn more about my expierence please go to my [LinkedIn][linkedin]
 [linkedin]: http://linkedin.com/in/mbrav/
 [devdotto]: https://dev.to/mbrav
 [pgp]: https://raw.githubusercontent.com/mbrav/mbrav/main/pgp-key.txt
-
