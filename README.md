@@ -1,6 +1,6 @@
 ## Hi there, I'm Michael 👋
 
-I am an IT specialist who specializes in the field of DevOps while also being passionate about Python and Rust languages. My interests range from designing and building processes at the infrastructure and architecture level to diving into the most low-level areas. I enjoy solving interesting problems regardless their difficulty while constantly expanding my horizons throughout the process.
+I am an IT specialist who specializes in the field of DevOps while also being passionate about Python, Rust and Go languages. My interests range from designing and building processes at the infrastructure and architecture level to diving into the most low-level areas. I enjoy solving interesting problems regardless their difficulty while constantly expanding my horizons throughout the process.
 
 - 👨‍💻 Work as a DevOps and Systems Engineer;
 - 🐍 Fluent in Python;
