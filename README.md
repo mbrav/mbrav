@@ -1,12 +1,12 @@
 ## Hi there, I'm Michael 👋
 
-I am an IT specialist who specializes in the field of DevOps while also being passionate about Python, Rust and Go languages. My interests range from designing and building processes at the infrastructure and architecture level to diving into the most low-level areas. I enjoy solving interesting problems regardless their difficulty while constantly expanding my horizons throughout the process.
+I am an IT specialist who specializes in the field of DevOps while also being passionate about Python, Go and Rust languages. My interests range from designing, monitoring and building processes at the infrastructure and architecture level to diving into the most low-level areas. I enjoy solving interesting problems regardless their difficulty while constantly expanding my horizons throughout the process.
 
-- 👨‍💻 Work as a DevOps and Systems Engineer;
+- 👨‍💻 I Work as a DevOps/SRE Engineer;
 - 🐍 Fluent in Python;
 - 🦀 Enjoy Rust when in hardmode;
 - 🦦 Fiddle with Go when in easymode;
-- 🐧 Linux entusiast, dabble with C when feeling adventurous;
+- 🐧 Linux enthusiast, dabble with C when feeling adventurous;
 - 🧠 T-shape versatilist by heart 🖤
 - 📍 Current location: Inside a Kubernetes cluster ☸️
 
@@ -40,7 +40,7 @@ I maintain a HomeLab as a second job to ensure I don't become jobless, even duri
         src="https://wakatime.com/share/@mbrav/65122ba8-bc34-4952-983f-19b433321e6e.png" alt="All time OS stats" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mbrav&no-frame=true&theme=onedark&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mbrav&no-frame=true&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🐋 Experience
 
