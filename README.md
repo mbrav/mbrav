@@ -40,7 +40,7 @@ I maintain a HomeLab as a second job to ensure I don't become jobless, even duri
         src="https://wakatime.com/share/@mbrav/65122ba8-bc34-4952-983f-19b433321e6e.png" alt="All time OS stats" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mbrav&no-frame=true&theme=onedark&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mbrav&no-frame=true&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🐋 Experience
 
