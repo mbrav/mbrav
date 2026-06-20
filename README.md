@@ -10,9 +10,10 @@ Currently at an international HFT hedge-fund, automating cloud infrastructure, m
 
 - Cloud automation with **AWS**, **Terraform**, **Pulumi**
   - [pulumi-netbird](https://github.com/mbrav/pulumi-netbird)
-- Kubernetes (bare-metal clusters via Kubespray, GitLab CI + Argo CD)
+- Kubernetes (bare-metal clusters via Kubespray, Talos Linux, GitLab CI + Argo CD)
   - [terradockernates](https://github.com/mbrav/terradockernates), [ansible-inventory-diagram](https://github.com/mbrav/ansible-inventory-diagram), [virt-cloud-init](https://github.com/mbrav/virt-cloud-init)
-- Monitoring: **Zabbix**, **Prometheus**, **Grafana**, **VictoriaMetrics**, **ELK**
+- Monitoring: **Zabbix**, **Prometheus**, **Grafana LGTM Stack**, **VictoriaMetrics**, **ELK**
+- Tracing & profiling: **Grafana Alloy**, **Tempo**, **Pyroscope**
 
 **AI & Agentic Systems**
 
@@ -20,6 +21,7 @@ Currently at an international HFT hedge-fund, automating cloud infrastructure, m
 - Multi-modal search over **PostgreSQL**: **BM25**, **vector search**, **graph search**
 - Self-hosted **llama.cpp** server administration and tuning with open-weight models for confidential data workloads
 - AI application development with [LangGraph](https://github.com/langchain-ai/langgraph) (Python), [rig](https://github.com/0xPlaygrounds/rig) (Rust), and [eino](https://github.com/cloudwego/eino) (Go)
+- LLM evaluation, tracing, and observability with **LangChain**, **Langfuse**
 
 **Languages**
 
