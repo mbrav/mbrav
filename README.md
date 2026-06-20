@@ -9,11 +9,9 @@ Currently at an international HFT hedge-fund, automating cloud infrastructure, m
 **Infrastructure & Platform**
 
 - Cloud automation with **AWS**, **Terraform**, **Pulumi**
-  - [pulumi-netbird](https://github.com/mbrav/pulumi-netbird) — Native Pulumi Provider for NetBird
+  - [pulumi-netbird](https://github.com/mbrav/pulumi-netbird)
 - Kubernetes (bare-metal clusters via Kubespray, GitLab CI + Argo CD)
-  - [terradockernates](https://github.com/mbrav/terradockernates) — Terraform + Kubernetes + KVM deployments
-  - [ansible-inventory-diagram](https://github.com/mbrav/ansible-inventory-diagram)
-  - [virt-cloud-init](https://github.com/mbrav/virt-cloud-init)
+  - [terradockernates](https://github.com/mbrav/terradockernates), [ansible-inventory-diagram](https://github.com/mbrav/ansible-inventory-diagram), [virt-cloud-init](https://github.com/mbrav/virt-cloud-init)
 - Monitoring: **Zabbix**, **Prometheus**, **Grafana**, **VictoriaMetrics**, **ELK**
 
 **AI & Agentic Systems**
@@ -21,7 +19,7 @@ Currently at an international HFT hedge-fund, automating cloud infrastructure, m
 - Agentic and **RAG** automation pipelines (retrieval-augmented generation)
 - Multi-modal search over **PostgreSQL**: **BM25**, **vector search**, **graph search**
 - Self-hosted **llama.cpp** server administration and tuning with open-weight models for confidential data workloads
-- AI application development in Python
+- AI application development with [LangGraph](https://github.com/langchain-ai/langgraph) (Python), [rig](https://github.com/0xPlaygrounds/rig) (Rust), and [eino](https://github.com/cloudwego/eino) (Go)
 
 **Languages**
 
