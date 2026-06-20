@@ -1,34 +1,46 @@
-## Hi there, I'm Michael 👋
+## Hi there, I'm Michael Braverman 👋
 
-I am an IT specialist who specializes in the field of DevOps while also being passionate about Python, Go and Rust languages. My interests range from designing, monitoring and building processes at the infrastructure and architecture level to diving into the most low-level areas. I enjoy solving interesting problems regardless their difficulty while constantly expanding my horizons throughout the process.
+**DevOps / AI Engineer** — building reliable infrastructure and intelligent systems at scale.
 
-- 👨‍💻 I Work as a DevOps/SRE Engineer;
-- 🐍 Fluent in Python;
-- 🦀 Enjoy Rust when in hardmode;
-- 🦦 Fiddle with Go when in easymode;
-- 🐧 Linux enthusiast, dabble with C when feeling adventurous;
-- 🧠 T-shape versatilist by heart 🖤
-- 📍 Current location: Inside a Kubernetes cluster ☸️
+Currently at an international HFT hedge-fund, automating cloud infrastructure, monitoring trading systems, and engineering AI-driven automation pipelines for processing confidential data on self-hosted open-weight LLMs.
 
-### 📄 [my_resume.pdf](/mbrav-resume.pdf)
+### 🛠 What I do
 
-<!--
-### Fun fact
+**Infrastructure & Platform**
 
-I maintain a HomeLab as a second job to ensure I don't become jobless, even during an economic recession.
+- Cloud automation with **AWS**, **Terraform**, **Pulumi**
+  - [pulumi-netbird](https://github.com/mbrav/pulumi-netbird) — Native Pulumi Provider for NetBird
+- Kubernetes (bare-metal clusters via Kubespray, GitLab CI + Argo CD)
+  - [terradockernates](https://github.com/mbrav/terradockernates) — Terraform + Kubernetes + KVM deployments
+  - [ansible-inventory-diagram](https://github.com/mbrav/ansible-inventory-diagram)
+  - [virt-cloud-init](https://github.com/mbrav/virt-cloud-init)
+- Monitoring: **Zabbix**, **Prometheus**, **Grafana**, **VictoriaMetrics**, **ELK**
 
-<img width="80" src="https://i.giphy.com/d3mlE7uhX8KFgEmY.webp" />
--->
+**AI & Agentic Systems**
+
+- Agentic and **RAG** automation pipelines (retrieval-augmented generation)
+- Multi-modal search over **PostgreSQL**: **BM25**, **vector search**, **graph search**
+- Self-hosted **llama.cpp** server administration and tuning with open-weight models for confidential data workloads
+- AI application development in Python
+
+**Languages**
+
+- 🐍 Python — daily driver for automation, data pipelines, and AI applications
+  - [ansible-inventory-diagram](https://github.com/mbrav/ansible-inventory-diagram), [signup_api](https://github.com/mbrav/signup_api)
+- 🦦 Go — when simplicity matters
+  - [pulumi-netbird](https://github.com/mbrav/pulumi-netbird)
+- 🦀 Rust — when correctness and performance demands it
+  - [gitraider](https://github.com/mbrav/gitraider), [nuttertools](https://github.com/mbrav/nuttertools)
+- 🐚 Bash — glue that holds the universe together
+  - [dotfiles](https://github.com/mbrav/dotfiles), [virt-cloud-init](https://github.com/mbrav/virt-cloud-init)
+- 🐧 C — when feeling adventurous
+  - [gigachad_kernel_module](https://github.com/mbrav/gigachad_kernel_module)
+
+### 📄 [Resume](/mbrav-resume.pdf)
+
 ## 📊 Stats
 
 [![wakatime](https://wakatime.com/badge/user/54ad05ce-f39b-4fa3-9f2a-6fe4b1c53ba4.svg?style=for-the-badge)](https://wakatime.com/@54ad05ce-f39b-4fa3-9f2a-6fe4b1c53ba4)
-<!--
-[![leetcode](https://badges.peiyuan.ch/leetcode/mbrav/ranking?logo=leetcode&label=%20Leet%20Code%20Rank&style=for-the-badge&color=orange)](https://leetcode.com/mbrav/)
-[![leetcode](https://badges.peiyuan.ch/leetcode/mbrav/solved?difficulty=all&style=for-the-badge&color=green)](https://leetcode.com/mbrav/)
-[![leetcode](https://badges.peiyuan.ch/leetcode/mbrav/solved?difficulty=easy&style=for-the-badge&color=green)](https://leetcode.com/mbrav/)
-[![leetcode](https://badges.peiyuan.ch/leetcode/mbrav/solved?difficulty=medium&style=for-the-badge&color=yellow)](https://leetcode.com/mbrav/)
-[![leetcode](https://badges.peiyuan.ch/leetcode/mbrav/solved?difficulty=hard&style=for-the-badge&color=red)](https://leetcode.com/mbrav/)
--->
 
 <div id="wakatime" style="width: 100%; overflow-x: auto;">
     <img style="display: inline-block; width: 24%; height: 100%;"
@@ -41,13 +53,18 @@ I maintain a HomeLab as a second job to ensure I don't become jobless, even duri
         src="https://wakatime.com/share/@mbrav/65122ba8-bc34-4952-983f-19b433321e6e.png" alt="All time OS stats" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mbrav&no-frame=true&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.benkou.dev/?username=mbrav&no-frame=true&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🐋 Experience
 
-To learn more about my experience visit my [LinkedIn][linkedin]
+| Period | Role | Company |
+|---|---|---|
+| 2023–Present | DevOps/AI Engineer | International HFT Hedge-Fund |
+| 2022–2023 | DevOps Engineer | CentrInform |
+| 2022 | Release Engineer | Banks Soft Systems (BSS) |
+| 2021–2022 | Python & Blockchain Developer | Genesis Block |
 
-## 👨🏻 Connect with me
+## 👨🏻 Connect
 
 [<img align="left" alt="absurdcomrade | Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" />][telegram]
 [<img align="left" alt="mbrav | Protonmail" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/protonmail.svg" />][mailto]
